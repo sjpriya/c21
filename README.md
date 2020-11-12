@@ -1,2 +1,3 @@
-# collisionAlgorithm
-Algorithm to detect collision between two objects
+Functions accepting input parameters  
+Functions returning values  
+Creating own library  
